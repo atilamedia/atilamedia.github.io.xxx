@@ -1,9 +1,13 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Posts"
+  - title: "Beranda"
+    url: /
+  - title: "Siapa Kami"
+    url: /kami/
+  - title: "Layanan"
+    url: /layanan/
+  - title: "Pelanggan"
+    url: /pelanggan/
+  - title: "Catatan"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Tags"
     url: /tags/
