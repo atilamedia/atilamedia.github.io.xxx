@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "F. Basoro"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/basoro.jpg"
   bio    : "CEO dan Programer Utama di Atila Media"
   links:
     - label: "Website"
