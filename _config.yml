@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: id-ID
-title: Atila Media
+title: Atila Media Pratama
 logo: assets/images/atila.png
 email: atilamedia.com@gmail.com
 description: Atila Media Pratama >- Spesialis Aplikasi Mobile dan Web # this means to ignore newlines until "baseurl:"
