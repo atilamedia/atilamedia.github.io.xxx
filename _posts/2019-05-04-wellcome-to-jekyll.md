@@ -1,6 +1,20 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2019-05-04T15:34:30-04:00
+author:
+  name   : "F. Basoro"
+  avatar : "/assets/images/basoro.jpg"
+  bio    : "CEO dan Pengembang Utama"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
 categories:
   - blog
 tags:
