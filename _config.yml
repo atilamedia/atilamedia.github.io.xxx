@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: id-ID
-title: Atila Media
+title: Atila Media Pratama
 name: Atila Media Pratama
 logo: assets/images/atila.png
 email: atilamedia.com@gmail.com
@@ -60,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "F. Basoro"
-  avatar : "/assets/images/basoro.jpg"
-  bio    : "CEO dan Programer Utama"
+  name   : "Atila Media"
+  avatar : "/assets/images/logo-atila-pink.png"
+  bio    : "Commanditaire Vennootschap (CV) dalam bidang Software House yang berlokasi di Kalimantan Selatan, Indonesia."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
